@@ -1,0 +1,6 @@
+module Poly.Pruebas where
+
+import Poly.Monomial
+import Poly.Polynomial
+import Algebra.AlgebraicHierarchy
+import Mod.Integer

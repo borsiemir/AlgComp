@@ -1,0 +1,4 @@
+module Mod.Integer2 where
+
+data Mod a i = Mod {val :: a, mod :: i}
+
